@@ -1,0 +1,6 @@
+import io.netty.util.Signal;
+public class FunctionUse20305 {
+public void funcUse() {
+Signal signal = new Signal();
+}
+}
